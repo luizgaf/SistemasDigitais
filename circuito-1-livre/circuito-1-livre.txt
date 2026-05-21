@@ -1,0 +1,5 @@
+Circuito 1, Circuito Livre
+
+Este circuito simula o funcionamento de um semáforo automático sonoro utilizando LEDs e buzzer.
+
+O buzzer tocará enquanto o semáforo estiver fechado.

@@ -1,0 +1,5 @@
+Circuito 4 - Automação
+
+Esse circuito simula o funcionamento de um alarme de presença, comumente utilizado em estabelecimentos para prevenir roubos.
+
+Quando detectado movimento em uma certa área (15cm) ele aciona o Buzzer simulando um alarme.

@@ -1,0 +1,7 @@
+Circuito 3 - Controle de Acesso
+
+Esse circuito utiliza RFID para simular um controle de acesso à uma porta ou portão.
+
+Por padrão o programa imprime o UID do cartão no monitor serial que pode ser copiado e colado na linha 13: String uidAutorizado = "DA 97 38 85";
+
+Caso o UID do cartão corresponda o led Verde acenderá (Autorizado) caso contrário o vermelho acenderá (Negado).
